@@ -1,0 +1,5 @@
+ body { background-color: #f8f9fa; text-align: center; }
+        .container { margin-top: 50px; max-width: 600px; background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); }
+        #quiz-box { display: none; }
+        #timer { font-weight: bold; }
+        
